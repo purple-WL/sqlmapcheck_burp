@@ -12,5 +12,6 @@
 里面主要记录请求和payload
 ![image](https://github.com/purple-WL/sqlmapcheck_burp/assets/63894044/3164732b-84a7-43b4-a0fe-7b82f093d84e)
 
-
+##注意
+需要修改subprocess.Popen里的sqlmap信息
 
